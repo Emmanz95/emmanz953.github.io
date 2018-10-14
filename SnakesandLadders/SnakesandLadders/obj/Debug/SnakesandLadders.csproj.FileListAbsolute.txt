@@ -1,0 +1,7 @@
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\bin\Debug\SnakesandLadders.exe.config
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\bin\Debug\SnakesandLadders.exe
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\bin\Debug\SnakesandLadders.pdb
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\obj\Debug\SnakesandLadders.csprojAssemblyReference.cache
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\obj\Debug\SnakesandLadders.csproj.CoreCompileInputs.cache
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\obj\Debug\SnakesandLadders.exe
+C:\Users\wwwem\source\repos\testsite\emmanz953.github.io\SnakesandLadders\SnakesandLadders\obj\Debug\SnakesandLadders.pdb
